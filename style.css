@@ -1,0 +1,11 @@
+body{
+    background-color: royalblue;
+}
+#score{
+    font-size: 30px;
+    margin-left: 0px;
+}
+#time{
+    font-size: 30px;
+    float: left;
+}
